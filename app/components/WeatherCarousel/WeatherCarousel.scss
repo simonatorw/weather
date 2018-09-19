@@ -1,0 +1,27 @@
+.weather-box {
+  margin-top: 20px;
+
+  .city {
+    font-size: 1.6rem;
+    padding-right: 30px;
+  }
+  .condition {
+    font-size: 1.1rem;
+    color: #888;
+  }
+  .temp {
+    font-size: 2rem;
+    font-weight: bold;
+    vertical-align: top;
+    padding-right: 6px;
+  }
+  .hi-lo {
+    color: #888;
+
+    .label {
+      font-weight: bold;
+      color: #000;
+      padding-right: 3px;
+    }
+  }
+}

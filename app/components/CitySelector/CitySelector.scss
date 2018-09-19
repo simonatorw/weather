@@ -1,0 +1,15 @@
+h2 {
+  font-size: 1.1rem;
+  margin-bottom: 3px;
+}
+.list-container {
+  vertical-align: top;
+
+  .list {
+    width: 160px;
+
+    .listItem {
+      padding: 1px 3px;
+    }
+  }
+}
